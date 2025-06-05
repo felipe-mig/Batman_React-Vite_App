@@ -1,0 +1,75 @@
+[    
+    {
+    "name": "Bane",
+    "description": "Bane is an escaped convict from an island prison in South America and a super-villain/assassin. Bane has abnormal physical strength as a result of having undergone experiments involving a derivative of the drug Venom. He became known as 'The Man Who Broke the Bat' when he broke Batman's back, forcing Bruce Wayne to give up the Batman persona while he recuperated. ",
+    "image": "/src/images/baneVillainsAlliesR45.webp"
+    },
+
+    {
+    "name": "Catwoman",
+    "description": "Catwoman is a cat-themed criminal from Gotham City and one of Batman's most-well known enemies. Selina Kyle is often portrayed as a thief and cat burglar with divided loyalties. Her criminal activities are often tempered by a reluctant altruism, making her an inconstant villain and occasional ally to Batman. She regularly eludes capture by the Dark Knight and maintains a complicated relationship which frequently fluctuates between flirtatious to romantic.",
+    "image": "/src/images/catwoman2VillainsAlliesR45.webp"
+    },
+
+    {
+    "name": "Joker",
+    "description": "Widely considered Batman's arch-nemesis, the Joker has also been responsible for numerous tragedies in Batman's life, including the paralysis of Barbara Gordon and the death of Jason Todd, the second Robin. His characterization has changed over the years, with the most common incarnation being a criminal mastermind who commits crimes for his own entertainment. In recent years, the character has taken on the persona of an evil-incarnate, simply taking joy in tormenting Batman or trying to push him into villainy.",
+    "image": "/src/images/jokerVillainsAlliesR45.webp"
+    },
+
+    {
+    "name": "Poison Ivy",
+    "description": "Poison Ivy is the alter ego taken by Dr. Pamela Lillian Isley, an eco-terrorist and prominent enemy of Batman. She is depicted as one of the world's most prominent eco-terrorists, motivated by an obsession with plants, misandry, botany, and extremist environmentalism with a desire to save the world from the evils of man through any means necessary. A genius scientist and meta-human with hybridized plant DNA, Poison Ivy uses mutant plants, will-bending pheromones and toxins from plants and her own bloodstream for her criminal activities.",
+    "image": "/src/images/poisonivyVillainsAlliesR45.webp"
+    },
+
+    {
+    "name": "Mr. Freeze",
+    "description": "Dr. Victor Fries (Pronounced 'freeze') was an accomplished cryogenicist whose beloved wife Nora was stricken with a fatal degenerative disease. Fries placed her in suspended animation while searching for a way to cure her. But GothCorp's CEO Ferris Boyle stopped funding the research and Nora's life and pulled the plug, triggering an accident that transformed Fries' body into a cold-blooded form that must always be kept at sub-zero temperatures; at normal room temperature he will die.",
+    "image": "/src/images/mrfreezeVillainsAlliesR45.webp"
+    },
+    
+    {
+    "name": "Two-Face",
+    "description": "Two-Face is a criminal split between 'good' and 'evil' sides. Once Gotham City's amiable and courteous District Attorney, Harvey Dent was one of Batman's closest allies and friends, working with the vigilante to clean up the city. However, after being horribly disfigured during a trial, Dent's sanity fractured and he became one of the city's most notorious criminals, obsessed with duality, fate, chance and (occasionally) the number two.",
+    "image": "/src/images/twofaceVillainsAlliesR45.webp"
+    },   
+
+    {
+    "name": "The Riddler",
+    "description": "The Riddler's criminal modus operandi is so deeply ingrained into his personality that he is virtually powerless to stop himself from acting it out. He cannot simply kill his opponents when he has the upper hand; he has to put them in a deathtrap to see if he can devise a life and death intellectual challenge that the hero cannot solve and escape.",
+    "image": "/src/images/theriddleVillainsAlliesR45.webp"
+    },
+
+    {
+    "name": "Scarecrow",
+    "description": "The Scarecrow is an overly-obsessive and deranged ex-professor of psychology who uses a variety of drugs and psychological tactics to use the fears and phobias of his adversaries. He does not commit his crimes for wealth, but rather as a form of 'research' to further study the effects of fear on humans (later, he does it to satisfy his own psychopathic desires), making Gothamites his unwilling guinea pigs.",
+    "image": "/src/images/scarecrowVillainsAlliesR45.webp"
+    },
+    
+    {
+    "name": "The Penguin",
+    "description": "The Penguin (Oswald Chesterfield Cobblepot) is a Gotham City supervillain and an enemy of Batman. One of Batman's oldest foes, the Penguin is often presented as a gentleman of crime, often developing elaborate schemes whilst presenting himself as innocent of many of his activities. An eccentric criminal mastermind, he is well-known for his love of ornithology and use of technology-fitted umbrellas.",
+    "image": "/src/images/penguinVillainsAlliesR45.webp"
+    },
+    
+    {
+    "name": "Nightwing",
+    "description": "Richard John 'Dick' Grayson was once Batman's first sidekick Robin, before going on to become Nightwing. Once he took up the mantle of Batman when Bruce was thought to be dead, but became Nightwing once again after the events of Flashpoint. After Forever Evil, Dick's identity was revealed to the world and Bruce convinced him to give up being Nightwing to become an agent of Spyral.",
+    "image": "/src/images/nightwingVillainsAlliesR45.webp"
+    },
+    
+    {
+    "name": "Harley Quinn",
+    "description": "Harley Quinn is a character created for the show Batman: The Animated Series. She began as Joker's moll and then retconned to be his former psychiatrist at Arkham Asylum. Quinn eventually become a well known Gotham criminal in her own right, frequently working with Poison Ivy on crime sprees.",
+    "image": "/src/images/harleyquinnVillainsAlliesR45.webp"
+    },
+
+    {
+    "name": "Clayface",
+    "description": "Clayface, primarily known as Basil Karlo, was once a celebrated actor whose career spiraled into obscurity, leading him to use a chemical formula that transformed him into a monstrous, shape shifting being made of living clay. With the ability to mimic any person’s appearance and form weapons from his body, he became one of Batman’s most dangerous and unpredictable foes.",
+    "image": "/src/images/clayfaceVillainsAlliesR45.webp"
+    }       
+
+
+]

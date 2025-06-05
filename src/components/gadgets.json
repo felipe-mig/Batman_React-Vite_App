@@ -1,0 +1,26 @@
+[
+    {
+    "name": "Batmobile",
+    "description": "Batman is the superhero protector of Gotham City, a tortured, brooding vigilante dressed as a bat who fights against evil and strikes fear into the hearts of criminals everywhere. In his public identity, he is Bruce Wayne, a billionaire industrialist and notorious playboy. Although he has no superhuman abilities, he is one of the world's smartest men and greatest fighters. His physical prowess, technical ingenuity, and tactical thinking make him an incredibly dangerous opponent. He is also a founding member of the Justice League.",
+    "image": "/src/images/gadgetsBatmobileR45.webp"
+    },
+
+    {
+    "name": "Batarang",
+    "description": "Batarangs are bat-shaped throwing weapons used by Batman. These are the most basic and commonly used items in his arsenal. A vast array sizes and types have been designed, some of them razor sharp. Traditionally they are large blunt boomerangs used to knock thugs out. They can also be used as grappling hooks when attached to Batropes. Batman has also been known to use batarangs modified with additional tools and gadgets.",
+    "image": "/src/images/batarangGadgetsR45.webp"
+    },
+
+    {
+    "name": "Batclaw",
+    "description": "The Batclaw was an attachment for Batman's grapnel gun. A clamp-based tool which could be attached to the grapnel's wire, it was used to latch onto objects and pull them towards Batman. The Batclaw was often used as both a combat tool or create maneuverability options. The Batclaw was also used by Nightwing, Batgirl and Azrael.",
+    "image": "/src/images/batclawGadgetR45.webp"
+    },
+
+    {
+    "name": "Memory-Cloth Cape",
+    "description": "The Memory Cloth cape is an integral part of Bruce Wayne's Batsuit. The fabric of the cape hardens when an electrical charge from his right glove runs through it, creating a wing-like glider. The cape in combination with magnetic grapple gun are his primary tools for traversing the city. Wayne was introduced to the memory fabric technology by Lucius Fox of the Applied Sciences division of Wayne Enterprises.",
+    "image": "/src/images/memoryClothCapeGadget.webp"
+    }   
+
+]

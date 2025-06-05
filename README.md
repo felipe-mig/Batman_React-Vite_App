@@ -20,10 +20,14 @@ Finally, replace the $${\color{orange}Orange}$$ directory with the one from this
 
 ## 📷 Screenshots
 
+### index
 ![Screenshot1](screenshots/Screenshot1.webp)
 ![Screenshot2](screenshots/Screenshot2.webp)
+### Characters
 ![Screenshot3](screenshots/Screenshot3.webp)
+### Villains & Allies
 ![Screenshot4](screenshots/Screenshot4.webp)
+### Videos & Media
 ![Screenshot5](screenshots/Screenshot5.webp)
 ![Screenshot6](screenshots/Screenshot6.webp)
 ![Screenshot7](screenshots/Screenshot7.webp)

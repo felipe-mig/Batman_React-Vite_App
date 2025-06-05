@@ -15,7 +15,7 @@ The website is optimized for a 16" 2560x1600 display with a 16:10 aspect ratio.
 * npm install
 * npm run dev
 
-Finally, Replace the <strong>src</strong> directory with the one from this repository
+Finally, Replace the <strong>src</strong> directory with the one from this repository.
     
 
 ## 📷 Screenshots

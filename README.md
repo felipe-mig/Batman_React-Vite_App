@@ -8,7 +8,7 @@ The content of the different sections is displayed using a function that reads d
 
 The website is optimized for a 16" 2560x1600 display with a 16:10 aspect ratio.
 
-♦️ To run the app using the **React + Vite** environment (assuming you have **Node.js** and **npm** installed), follow these steps in your terminal:
+♦️ To run the app using the **React + Vite** environment (assuming you have **Node.js** and **npm** installed), enter these commands on your terminal:
 
 * npm create vite@latest testBatmanApp -- --template react
 * cd testBatmanApp

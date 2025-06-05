@@ -15,7 +15,8 @@ The website is optimized for a 16" 2560x1600 display with a 16:10 aspect ratio.
 * npm install
 * npm run dev
 
-Finally, replace the $${\color{orange}Orange}$$ directory with the one from this repository.
+Finally, replace the **src** directory with the one from this repository.
+
     
 
 ## 📷 Screenshots

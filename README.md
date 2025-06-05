@@ -1,7 +1,7 @@
 ## 📄 Description
 
 🌕🦇This is a React app project built with Vite, based on the Batman universe. The app is built with components that are dynamically rendered using control functions.
-The content of the different sections is displayed using a function that reads data from a JSON file. Therefore, to update the content, the user only needs to change the information in the JSON file.
+The content of the different sections is displayed using functions that read data from a JSON file. Therefore, to update the content, the user only needs to change the information in the JSON file.
 
 * 🚫🤖 No AI code 
 * 📁 Local content

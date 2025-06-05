@@ -15,7 +15,7 @@ The website is optimized for a 16" 2560x1600 display with a 16:10 aspect ratio.
 * npm install
 * npm run dev
 
-Finally, replace the **src** directory with the one from this repository.
+Finally, uncompress the src.rar and replace the **src** directory of your recently created React environment with the one in this repository.
 
     
 
